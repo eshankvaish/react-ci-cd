@@ -1,5 +1,7 @@
 # Getting Started with React CI/CD App
 
+React app using Github Actions for setting up CI/CD pipeline.
+
 ## Actions Status
 
 ![Continuous Integration](https://github.com/eshankvaish/react-ci-cd/actions/workflows/CI.yml/badge.svg)
