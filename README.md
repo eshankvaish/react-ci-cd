@@ -1,5 +1,12 @@
 # Getting Started with React CI/CD App
 
+## Actions Status
+
+![Continuous Integration](https://github.com/eshankvaish/react-ci-cd/actions/workflows/CI.yml/badge.svg)
+
+![Continuous Deployment](https://github.com/eshankvaish/react-ci-cd/actions/workflows/CD.yml/badge.svg)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
